@@ -1,5 +1,5 @@
 [
- {
+  {
     "id": "1",
     "title": "كتاب الرياضيات - الأولى متوسط",
     "author": "وزارة التربية الوطنية",
@@ -7,68 +7,67 @@
     "pages": 192, 
     "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
-  }
-  
+  },
   {
     "id": "2",
-    "title": "كتاب الرياضيات - الأولى متوسط",
+    "title": "كتاب اللغة العربية - الأولى متوسط",
     "author": "وزارة التربية الوطنية",
-    "size": "24 MB",
-    "pages": 192, 
+    "size": "18 MB",
+    "pages": 150, 
     "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
-  }
-  {
-    "id": "2",
-    "title": "كتاب الرياضيات - الأولى متوسط",
-    "author": "وزارة التربية الوطنية",
-    "size": "24 MB",
-    "pages": 192, 
-    "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
-    "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
-  }
+  },
   {
     "id": "3",
-    "title": "كتاب الرياضيات - الأولى متوسط",
+    "title": "كتاب العلوم الطبيعية - الأولى متوسط",
     "author": "وزارة التربية الوطنية",
-    "size": "24 MB",
-    "pages": 192, 
+    "size": "20 MB",
+    "pages": 160, 
     "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
-  }
+  },
   {
     "id": "4",
-    "title": "كتاب الرياضيات - الأولى متوسط",
+    "title": "كتاب التاريخ والجغرافيا - الأولى متوسط",
     "author": "وزارة التربية الوطنية",
-    "size": "24 MB",
-    "pages": 192, 
+    "size": "28 MB",
+    "pages": 210, 
     "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
-  }
+  },
   {
     "id": "5",
-    "title": "كتاب الرياضيات - الأولى متوسط",
+    "title": "كتاب التربية الإسلامية - الأولى متوسط",
     "author": "وزارة التربية الوطنية",
-    "size": "24 MB",
-    "pages": 192, 
+    "size": "12 MB",
+    "pages": 90, 
     "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
-  }
+  },
   {
     "id": "6",
-    "title": "كتاب الرياضيات - الأولى متوسط",
+    "title": "كتاب الفيزياء - الأولى متوسط",
     "author": "وزارة التربية الوطنية",
-    "size": "24 MB",
-    "pages": 192, 
+    "size": "16 MB",
+    "pages": 140, 
     "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
-  }
+  },
   {
     "id": "7",
-    "title": "كتاب الرياضيات - الأولى متوسط",
+    "title": "كتاب اللغة الفرنسية - الأولى متوسط",
     "author": "وزارة التربية الوطنية",
-    "size": "24 MB",
-    "pages": 192, 
+    "size": "15 MB",
+    "pages": 120, 
+    "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
+    "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
+  },
+  {
+    "id": "8",
+    "title": "كتاب اللغة الإنجليزية - الأولى متوسط",
+    "author": "وزارة التربية الوطنية",
+    "size": "14 MB",
+    "pages": 110, 
     "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   }
