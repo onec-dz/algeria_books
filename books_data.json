@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "استدعاء امتحان المستوى 2026",
+    "year": 2026,
+    "size": "1.2 MB",
+    "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
+    "author": "الديوان الوطني للتعليم والتكوين عن بعد",
+    "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
+  },
+  {
+    "id": "2",
+    "title": "كتاب الرياضيات المطور",
+    "year": 2026,
+    "size": "18.5 MB",
+    "img": "https://images.unsplash.com/photo-1509228468518-180dd482180c?q=80&w=400",
+    "author": "وزارة التربية الوطنية",
+    "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
+  }
+]
