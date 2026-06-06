@@ -1,46 +1,79 @@
 [
   {
-    "title": "تطبيق الطور الابتدائي الشامل",
-    "desc": "كل ما يحتاجه تلميذ الابتدائي من دروس وفروض مصححة وفق منهاج التربية.",
+    "title": "تطبيق الرياضيات - أولى متوسط ✨",
+    "desc": "حلول الأنشطة، والتمارين الكتابية، وفروض واختبارات مصححة بدقة.",
     "rating": "4.9 ⭐",
-    "size": "12 MB",
-    "icon": "🎒",
-    "badge": "🔥 الأكثر تحميلاً",
+    "size": "14 MB",
+    "icon": "📐",
+    "badge": "🔥 الأكثر طلباً",
+    "category": "current_year",
+    "packageId": "com.onec.math_1am",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.onec.math_1am"
+  },
+  {
+    "title": "بنك الفروض والاختبارات 1AM 🏆",
+    "desc": "فروض ومستندات اختبارية نموذجية مع التصحيح النموذجي الشامل لجميع الفصول.",
+    "rating": "4.8 ⭐",
+    "size": "18 MB",
+    "icon": "📝",
+    "badge": "✨ ممتاز",
+    "category": "current_year",
+    "packageId": "com.onec.exams_1am",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.onec.exams_1am"
+  },
+  {
+    "title": "ملخصات الجيل الثاني - أولى متوسط",
+    "desc": "مراجعة ذكية وحفظ سريع للمواد الحفظية والعلمية بملفات PDF فخمة.",
+    "rating": "4.7 ⭐",
+    "size": "11 MB",
+    "icon": "📚",
+    "badge": "💎 متميز",
+    "category": "current_year",
+    "packageId": "com.onec.summary_1am",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.onec.summary_1am"
+  },
+  {
+    "title": "مدرسة الجيل للطور الابتدائي الشامل 🎒",
+    "desc": "باقة شاملة لكل سنوات الابتدائي من الأولى إلى الخامسة؛ دروس واختبارات.",
+    "rating": "4.9 ⭐",
+    "size": "22 MB",
+    "icon": "🏫",
+    "badge": "🎖️ مرشح بقوة",
     "category": "other",
     "packageId": "com.onec.prim_app",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.onec.prim_app"
   },
   {
-    "title": "حلول كتاب الرياضيات أولى متوسط",
-    "desc": "تصحيح نموذجي مفصل ومباشر لجميع تمارين كتاب الرياضيات الرسمي خطوة بخطوة.",
-    "rating": "4.9 ⭐",
-    "size": "7 MB",
-    "icon": "📐",
-    "badge": "⚡ مخصص لسنتك الحالية",
-    "category": "current_year",
-    "packageId": "com.onec.math_1am_solutions",
-    "storeUrl": "https://play.google.com/store/apps/details?id=com.onec.math_1am_solutions"
+    "title": "حقيبة الطور الثانوي - دروس وحلول 🗺️",
+    "desc": "ملخصات وبنوك أسئلة لسنوات الثانوي والتحضير الفاخر لشهادة البكالوريا.",
+    "rating": "4.6 ⭐",
+    "size": "25 MB",
+    "icon": "🎓",
+    "badge": "📥 رائج الآن",
+    "category": "other",
+    "packageId": "com.onec.sec_app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.onec.sec_app"
   },
   {
-    "title": "تطبيق شهادة التعليم المتوسط BEM",
-    "desc": "ملخصات حصرية وحوليات رسمية مع الحلول المفصلة للتفوق في البيام.",
+    "title": "تطبيق اللغات الأجنبية التفاعلي 🗣️",
+    "desc": "قواعد اللغة الإنجليزية والفرنسية المقررة في المنهاج الوزاري بشكل مبسط.",
     "rating": "4.8 ⭐",
     "size": "15 MB",
-    "icon": "🎓",
-    "badge": "✨ موصى به للطور المتوسط",
-    "category": "current_year",
-    "packageId": "com.onec.bem_academy",
-    "storeUrl": "https://play.google.com/store/apps/details?id=com.onec.bem_academy"
+    "icon": "🌐",
+    "badge": "💡 ذكي",
+    "category": "other",
+    "packageId": "com.onec.languages_app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.onec.languages_app"
   },
   {
-    "title": "قاموس المصطلحات المدرسية",
-    "desc": "موسوعة مصغرة لترجمة ومصطلحات المواد العلمية والأدبية لجميع الأطوار.",
-    "rating": "4.7 ⭐",
-    "size": "8 MB",
-    "icon": "📖",
-    "badge": "💎 حصري للجميع",
+    "title": "مسابقات وتحديات ذكاء التلميذ 🎮",
+    "desc": "ألعاب فكرية وأسئلة خيارات متعددة لتنمية ذكاء وسرعة بديهة المتمدرسين.",
+    "rating": "4.5 ⭐",
+    "size": "30 MB",
+    "icon": "🧠",
+    "badge": "🎉 ترفيهي هادف",
     "category": "other",
-    "packageId": "com.onec.school_dictionary",
-    "storeUrl": "https://play.google.com/store/apps/details?id=com.onec.school_dictionary"
+    "packageId": "com.onec.quiz_app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.onec.quiz_app"
   }
 ]
