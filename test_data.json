@@ -1,41 +1,41 @@
 [
   {
-    "title": "فرض الرياضيات نموذج 1",
+    "title": "فرض الرياضيات - نموذج 1",
     "subject": "المادة: الرياضيات - الفصل الأول",
     "term": 1,
+    "year": 2022,
+    "modelNumber": 1,
     "icon": "📐",
     "examUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
     "solutionUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
   {
-    "title": "فرض الرياضيات نموذج 2",
-    "subject": "المادة: الرياضيات - الفصل الثاني",
-    "term": 2,
-    "icon": "📐",
-    "examUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
-    "solutionUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
-  },
-  {
-    "title": "فرض اللغة العربية نموذج 1",
-    "subject": "المادة: اللغة العربية - الفصل الأول",
+    "title": "فرض الرياضيات - نموذج 2",
+    "subject": "المادة: الرياضيات - الفصل الأول",
     "term": 1,
-    "icon": "📖",
+    "year": 2022,
+    "modelNumber": 2,
+    "icon": "📐",
     "examUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
     "solutionUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
   {
-    "title": "فرض العلوم الفيزيائية نموذج 1",
-    "subject": "المادة: العلوم الفيزيائية - الفصل الثاني",
-    "term": 2,
-    "icon": "🧪",
-    "examUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
-    "solutionUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
-  },
-  {
-    "title": "فرض العلوم الطبيعية نموذج 1",
-    "subject": "المادة: علوم الطبيعة والحياة - الفصل الثالث",
+    "title": "فرض الرياضيات - نموذج 20",
+    "subject": "المادة: الرياضيات - الفصل الثالث",
     "term": 3,
-    "icon": "🌱",
+    "year": 2022,
+    "modelNumber": 20,
+    "icon": "📐",
+    "examUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+    "solutionUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
+  },
+  {
+    "title": "فرض الرياضيات - نموذج 1",
+    "subject": "المادة: الرياضيات - الفصل الأول",
+    "term": 1,
+    "year": 2023,
+    "modelNumber": 1,
+    "icon": "📐",
     "examUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
     "solutionUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   }
