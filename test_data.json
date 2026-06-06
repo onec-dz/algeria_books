@@ -1,0 +1,42 @@
+[
+  {
+    "title": "فرض الرياضيات نموذج 1",
+    "subject": "المادة: الرياضيات - الفصل الأول",
+    "term": 1,
+    "icon": "📐",
+    "examUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+    "solutionUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
+  },
+  {
+    "title": "فرض الرياضيات نموذج 2",
+    "subject": "المادة: الرياضيات - الفصل الثاني",
+    "term": 2,
+    "icon": "📐",
+    "examUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+    "solutionUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
+  },
+  {
+    "title": "فرض اللغة العربية نموذج 1",
+    "subject": "المادة: اللغة العربية - الفصل الأول",
+    "term": 1,
+    "icon": "📖",
+    "examUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+    "solutionUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
+  },
+  {
+    "title": "فرض العلوم الفيزيائية نموذج 1",
+    "subject": "المادة: العلوم الفيزيائية - الفصل الثاني",
+    "term": 2,
+    "icon": "🧪",
+    "examUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+    "solutionUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
+  },
+  {
+    "title": "فرض العلوم الطبيعية نموذج 1",
+    "subject": "المادة: علوم الطبيعة والحياة - الفصل الثالث",
+    "term": 3,
+    "icon": "🌱",
+    "examUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+    "solutionUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
+  }
+]
