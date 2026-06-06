@@ -3,7 +3,7 @@
     "subject": "الرياضيات",
     "fields": [
       {
-        "fieldName": "الميدان الأول: الأعداد الطبيعية والعشرية ✨",
+        "fieldName": "الميدان الأول: الأعداد الطبيعية والأعداد العشرية ✨",
         "exercises": [
           {
             "title": "حل تمرين 1 صفحة 20",
@@ -18,12 +18,61 @@
             "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
             "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 3 صفحة 21",
+            "page": "صفحة 21",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 4 صفحة 21",
+            "page": "صفحة 21",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 5 صفحة 22",
+            "page": "صفحة 22",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           }
         ]
       },
       {
-        "fieldName": "الميدان الثاني: الهندسة والفضاء 📐",
+        "fieldName": "الميدان الثاني: الهندسة والفضاء والإنشاءات 📐",
         "exercises": [
+          {
+            "title": "حل تمرين 1 صفحة 40",
+            "page": "صفحة 40",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 2 صفحة 40",
+            "page": "صفحة 40",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 3 صفحة 41",
+            "page": "صفحة 41",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 4 صفحة 42",
+            "page": "صفحة 42",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
           {
             "title": "حل تمرين 5 صفحة 45",
             "page": "صفحة 45",
@@ -32,7 +81,197 @@
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           }
         ]
-      }
-    ]
-  }
-]
+      },
+      {
+        "fieldName": "الميدان الثالث: الحساب الدالي والمعادلات 🧮",
+        "exercises": [
+          {
+            "title": "حل تمرين 1 صفحة 60",
+            "page": "صفحة 60",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 2 صفحة 60",
+            "page": "صفحة 60",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 3 صفحة 61",
+            "page": "صفحة 61",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 4 صفحة 62",
+            "page": "صفحة 62",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 5 صفحة 63",
+            "page": "صفحة 63",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      },
+      {
+        "fieldName": "الميدان الرابع: تنظيم المعطيات والإحصاء 📊",
+        "exercises": [
+          {
+            "title": "حل تمرين 1 صفحة 80",
+            "page": "صفحة 80",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 2 صفحة 80",
+            "page": "صفحة 80",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 3 صفحة 81",
+            "page": "صفحة 81",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 4 صفحة 82",
+            "page": "صفحة 82",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 5 صفحة 83",
+            "page": "صفحة 83",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      },
+      {
+        "fieldName": "الميدان الخامس: التناظر المحوري والكسور 🔄",
+        "exercises": [
+          {
+            "title": "حل تمرين 1 صفحة 100",
+            "page": "صفحة 100",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 2 صفحة 100",
+            "page": "صفحة 100",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 3 صفحة 101",
+            "page": "صفحة 101",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 4 صفحة 102",
+            "page": "صفحة 102",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 5 صفحة 103",
+            "page": "صفحة 103",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      },
+      {
+        "fieldName": "الميدان السادس: السطوح المستوية والمحيطات 📏",
+        "exercises": [
+          {
+            "title": "حل تمرين 1 صفحة 120",
+            "page": "صفحة 120",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 2 صفحة 120",
+            "page": "صفحة 120",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 3 صفحة 121",
+            "page": "صفحة 121",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 4 صفحة 122",
+            "page": "صفحة 122",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 5 صفحة 124",
+            "page": "صفحة 124",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      },
+      {
+        "fieldName": "الميدان السابع: الزوايا والمثلثات الخاصة 📐",
+        "exercises": [
+          {
+            "title": "حل تمرين 1 صفحة 140",
+            "page": "صفحة 140",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 2 صفحة 140",
+            "page": "صفحة 140",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 3 صفحة 141",
+            "page": "صفحة 141",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 4 صفحة 142",
+            "page": "صفحة 142",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل
