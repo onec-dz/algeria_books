@@ -1,0 +1,46 @@
+[
+  {
+    "title": "تطبيق الطور الابتدائي الشامل",
+    "desc": "كل ما يحتاجه تلميذ الابتدائي من دروس وفروض مصححة وفق منهاج التربية.",
+    "rating": "4.9 ⭐",
+    "size": "12 MB",
+    "icon": "🎒",
+    "badge": "🔥 الأكثر تحميلاً",
+    "category": "other",
+    "packageId": "com.onec.prim_app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.onec.prim_app"
+  },
+  {
+    "title": "حلول كتاب الرياضيات أولى متوسط",
+    "desc": "تصحيح نموذجي مفصل ومباشر لجميع تمارين كتاب الرياضيات الرسمي خطوة بخطوة.",
+    "rating": "4.9 ⭐",
+    "size": "7 MB",
+    "icon": "📐",
+    "badge": "⚡ مخصص لسنتك الحالية",
+    "category": "current_year",
+    "packageId": "com.onec.math_1am_solutions",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.onec.math_1am_solutions"
+  },
+  {
+    "title": "تطبيق شهادة التعليم المتوسط BEM",
+    "desc": "ملخصات حصرية وحوليات رسمية مع الحلول المفصلة للتفوق في البيام.",
+    "rating": "4.8 ⭐",
+    "size": "15 MB",
+    "icon": "🎓",
+    "badge": "✨ موصى به للطور المتوسط",
+    "category": "current_year",
+    "packageId": "com.onec.bem_academy",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.onec.bem_academy"
+  },
+  {
+    "title": "قاموس المصطلحات المدرسية",
+    "desc": "موسوعة مصغرة لترجمة ومصطلحات المواد العلمية والأدبية لجميع الأطوار.",
+    "rating": "4.7 ⭐",
+    "size": "8 MB",
+    "icon": "📖",
+    "badge": "💎 حصري للجميع",
+    "category": "other",
+    "packageId": "com.onec.school_dictionary",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.onec.school_dictionary"
+  }
+]
