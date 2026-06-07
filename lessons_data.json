@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "الرياضيات",
+    "fields": [
+      {
+        "fieldName": "الميدان الأول: الأعداد الطبيعية والأعداد العشرية 📚",
+        "lessons": [
+          {
+            "title": "الدرس 1: قراءة وكتابة الأعداد الطبيعية",
+            "subtitle": "ملخص شامل لقواعد المراتب والآحاد والعشرات",
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "الدرس 2: مقارنة وترتيب الأعداد الطبيعية",
+            "subtitle": "كيفية استعمال الرموز وحصر الأعداد بدقة",
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "الدرس 3: جمع وطرح الأعداد الطبيعية",
+            "subtitle": "التقنيات الاعتيادية للعمليات وحل المشكلات",
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "الدرس 4: مفهوم العدد العشري وبنيته",
+            "subtitle": "التعرف على الجزء الصحيح والجزء العشري والفاصلة",
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "الدرس 5: الانتقال بين الكتابة الكسرية والعشرية",
+            "subtitle": "قواعد التفكيك النموجي وتحويل الكسور العشرية",
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      },
+      {
+        "fieldName": "الميدان الثاني: الهندسة والفضاء والإنشاءات 📐",
+        "lessons": [
+          {
+            "title": "الدرس 1: المستقيم والقطعة المستقيمة ونصف المستقيم",
+            "subtitle": "المفاهيم الأساسية والرموز الرياضية الصحيحة",
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "الدرس 2: استقامية نقط والمنتصف",
+            "subtitle": "قواعد التشفير الهندسي وتحديد منتصف قطعة مستقيمة",
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "الدرس 3: التعامد والتوازي",
+            "subtitle": "الإنشاءات الهندسية الدقيقة باستعمال الكوس والمسطرة",
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "الدرس 4: الدائرة وعناصرها الأساسية",
+            "subtitle": "التعرف على المركز، نصف القطر، القطر، والوتر",
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "الدرس 5: إنشاء أشكال هندسية بسيطة",
+            "subtitle": "خطوات رسم المثلثات الخاصة والمربعات والمستطيلات",
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      }
+    ]
+  }
+]
