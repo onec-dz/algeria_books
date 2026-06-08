@@ -1,0 +1,37 @@
+[
+  {
+    "id": "s4",
+    "subject": "اللغة العربية",
+    "author": "وزارة التربية الوطنية",
+    "img": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/images/arabic_solutions_cover.png",
+    "colors": ["0xFFEF4444", "0xFF7F1D1D"],
+    "fields": [
+      {
+        "fieldName": "الميدان الأول: الحياة العائلية والمجتمعية 📚",
+        "colors": ["0xFF7F1D1D", "0xFF991B1B"],
+        "exercises": [
+          {
+            "title": "تطبيقات صفحة 12 (بناء الفعل الماضي على الفتح)",
+            "page": "ص 12",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/arb_ex_p12.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/arb_sol_p12.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      },
+      {
+        "fieldName": "الميدان الثاني: حب الوطن وأمجاد عظماء الإنسانية 🇩🇿",
+        "colors": ["0xFFEA580C", "0xFF431407"],
+        "exercises": [
+          {
+            "title": "تطبيقات صفحة 34 (علامات رفع المبتدأ والخبر المفرط)",
+            "page": "ص 34",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/arb_ex_p34.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/arb_sol_p34.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      }
+    ]
+  }
+]
