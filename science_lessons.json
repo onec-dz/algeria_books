@@ -1,0 +1,32 @@
+[
+  {
+    "id": "3",
+    "subject": "علوم الطبيعة والحياة",
+    "author": "وزارة التربية الوطنية",
+    "img": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/images/science_card.png",
+    "colors": ["0xFF10B981", "0xFF064E3B"],
+    "fields": [
+      {
+        "fieldName": "الميدان الأول: الإنسان والصحة 🌱",
+        "lessons": [
+          {
+            "title": "الدرس 1: مصدر وتركيب الأغذية ومكوناتها",
+            "subtitle": "تصنيف الأغذية حسب الأصل النباتي والحيواني والمعدني",
+            "size": "2.9 MB",
+            "pages": 14,
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/science_l1.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "الدرس 2: الرواتب الغذائية والتوازن الصحي",
+            "subtitle": "قواعد التغذية السليمة وحماية الجسم من الأمراض",
+            "size": "3.2 MB",
+            "pages": 18,
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/science_l2.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      }
+    ]
+  }
+]
