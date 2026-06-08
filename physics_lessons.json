@@ -8,6 +8,7 @@
     "fields": [
       {
         "fieldName": "الميدان الأول: المادة وتحولاتها 🧪",
+        "colors": ["0xFF134E4A", "0xFF0F766E"],
         "lessons": [
           {
             "title": "الدرس 1: بعض القياسات وحالات المادة",
@@ -16,13 +17,19 @@
             "pages": 16,
             "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/physics_l1.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-          },
+          }
+        ]
+      },
+      {
+        "fieldName": "الميدان الثاني: الظواهر الكهربائية ⚡",
+        "colors": ["0xFF06B6D4", "0xFF164E63"],
+        "lessons": [
           {
-            "title": "الدرس 2: الخليط المتجانس والغير متجانس",
-            "subtitle": "طرق الفصل بين الغازات والسوائل والمواد الصلبة",
-            "size": "2.7 MB",
-            "pages": 15,
-            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/physics_l2.pdf",
+            "title": "الدرس 1: الدارة الكهربائية وعناصرها",
+            "subtitle": "مفهوم التيار الكهربائي، المولد، النواقل والعوازل",
+            "size": "2.8 MB",
+            "pages": 14,
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/physics_l3.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           }
         ]
