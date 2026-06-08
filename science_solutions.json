@@ -1,0 +1,37 @@
+[
+  {
+    "id": "s3",
+    "subject": "علوم الطبيعة والحياة",
+    "author": "وزارة التربية الوطنية",
+    "img": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/images/science_solutions_cover.png",
+    "colors": ["0xFF10B981", "0xFF064E3B"],
+    "fields": [
+      {
+        "fieldName": "الميدان الأول: الإنسان والصحة 🌱",
+        "colors": ["0xFF064E3B", "0xFF065F46"],
+        "exercises": [
+          {
+            "title": "حل تمرين 1 صفحة 30 (مصدر وتركيب الأغذية اليومية)",
+            "page": "ص 30",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/sci_ex_p30.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/sci_sol_p30.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      },
+      {
+        "fieldName": "الميدان الثاني: الإنسان والمحيط 🌍",
+        "colors": ["0xFF84CC16", "0xFF365314"],
+        "exercises": [
+          {
+            "title": "حل تمرين 3 صفحة 62 (امتصاص النبات للمحلول المعدني)",
+            "page": "ص 62",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/sci_ex_p62.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/sci_sol_p62.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      }
+    ]
+  }
+]
