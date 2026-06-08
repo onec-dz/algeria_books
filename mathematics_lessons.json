@@ -8,6 +8,7 @@
     "fields": [
       {
         "fieldName": "الميدان الأول: الأعداد الطبيعية والأعداد العشرية 📚",
+        "colors": ["0xFF2563EB", "0xFF1E3A8A"],
         "lessons": [
           {
             "title": "الدرس 1: قراءة وكتابة الأعداد الطبيعية",
@@ -16,19 +17,12 @@
             "pages": 14,
             "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/math_l1.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-          },
-          {
-            "title": "الدرس 2: مقارنة وترتيب الأعداد الطبيعية",
-            "subtitle": "كيفية استعمال الرموز وحصر الأعداد بدقة",
-            "size": "1.8 MB",
-            "pages": 12,
-            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/math_l2.pdf",
-            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           }
         ]
       },
       {
         "fieldName": "الميدان الثاني: الهندسة والفضاء والإنشاءات 📐",
+        "colors": ["0xFF14B8A6", "0xFF134E4A"],
         "lessons": [
           {
             "title": "الدرس 1: المستقيم والقطعة المستقيمة ونصف المستقيم",
