@@ -1,0 +1,37 @@
+[
+  {
+    "id": "s5",
+    "subject": "اللغة الأمازيغية",
+    "author": "وزارة التربية الوطنية",
+    "img": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/images/tamazight_solutions_cover.png",
+    "colors": ["0xFF8B5CF6", "0xFF4C1D95"],
+    "fields": [
+      {
+        "fieldName": "الميدان الأول: الهوية والثقافة والتراث الأمازيغي ♓",
+        "colors": ["0xFF4C1D95", "0xFF5B21B6"],
+        "exercises": [
+          {
+            "title": "حل أنشطة صفحة 10 (كتابة حروف التيفيناغ الصحيحة)",
+            "page": "ص 10",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/tam_ex_p10.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/tam_sol_p10.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      },
+      {
+        "fieldName": "الميدان الثاني: التواصل الاجتماعي والتقاليد العريقة 🌾",
+        "colors": ["0xFFEC4899", "0xFF831843"],
+        "exercises": [
+          {
+            "title": "حل أنشطة صفحة 28 (تركيب الجملة الاسمية البسيطة)",
+            "page": "ص 28",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/tam_ex_p28.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/tam_sol_p28.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      }
+    ]
+  }
+]
