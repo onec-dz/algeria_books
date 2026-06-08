@@ -8,6 +8,7 @@
     "fields": [
       {
         "fieldName": "الميدان الأول: الإنسان والصحة 🌱",
+        "colors": ["0xFF064E3B", "0xFF065F46"],
         "lessons": [
           {
             "title": "الدرس 1: مصدر وتركيب الأغذية ومكوناتها",
@@ -16,13 +17,19 @@
             "pages": 14,
             "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/science_l1.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-          },
+          }
+        ]
+      },
+      {
+        "fieldName": "الميدان الثاني: الإنسان والمحيط 🌍",
+        "colors": ["0xFF84CC16", "0xFF365314"],
+        "lessons": [
           {
-            "title": "الدرس 2: الرواتب الغذائية والتوازن الصحي",
-            "subtitle": "قواعد التغذية السليمة وحماية الجسم من الأمراض",
-            "size": "3.2 MB",
-            "pages": 18,
-            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/science_l2.pdf",
+            "title": "الدرس 1: النبات الأخضر المعرض للضوء",
+            "subtitle": "مفهوم التركيب الضوئي وامتصاص الأملاح المعدنية والماء",
+            "size": "2.5 MB",
+            "pages": 12,
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/science_l3.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           }
         ]
