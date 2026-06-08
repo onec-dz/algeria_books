@@ -1,28 +1,35 @@
 [
   {
-    "id": "4",
-    "subject": "اللغة العربية",
+    "id": "5",
+    "subject": "اللغة الأمازيغية",
     "author": "وزارة التربية الوطنية",
-    "img": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/images/arabic_card.png",
-    "colors": ["0xFFEF4444", "0xFF7F1D1D"],
+    "img": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/images/books.png",
+    "colors": ["0xFF8B5CF6", "0xFF4C1D95"],
     "fields": [
       {
-        "fieldName": "الميدان الأول: الحياة العائلية والمجتمعية 📚",
+        "fieldName": "الميدان الأول: الهوية والثقافة والتراث الأمازيغي ♓",
+        "colors": ["0xFF4C1D95", "0xFF5B21B6"],
         "lessons": [
           {
-            "title": "الدرس 1: قواعد النحو - بناء الفعل الماضي",
-            "subtitle": "ملخص علامات البناء على الفتح والضم والسكون",
-            "size": "1.9 MB",
-            "pages": 11,
-            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/arabic_l1.pdf",
+            "title": "الدرس 1: أبجدية التيفيناغ وقواعد النطق الصوتي",
+            "subtitle": "التعرف على الحروف الصامتة والصائتة وطريقة الكتابة الصحيحة",
+            "size": "1.7 MB",
+            "pages": 10,
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/tamazight_l1.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-          },
+          }
+        ]
+      },
+      {
+        "fieldName": "الميدان الثاني: التواصل الاجتماعي والتقاليد العريقة 🌾",
+        "colors": ["0xFFEC4899", "0xFF831843"],
+        "lessons": [
           {
-            "title": "الدرس 2: بلاغة وأساليب النص الأدبي",
-            "subtitle": "الفرق بين التعبير الحقيقي والتعبير المجازي بوضوح",
+            "title": "الدرس 1: تراكيب الجملة الأمازيغية البسيطة ودلالاتها",
+            "subtitle": "ملخص شامل لقواعد بناء الجملة الاسمية والفعلية للتواصل اليومي",
             "size": "2.1 MB",
             "pages": 12,
-            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/arabic_l2.pdf",
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/tamazight_l3.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           }
         ]
