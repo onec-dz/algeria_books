@@ -8,6 +8,7 @@
     "fields": [
       {
         "fieldName": "الميدان الأول: الحياة العائلية والمجتمعية 📚",
+        "colors": ["0xFF7F1D1D", "0xFF991B1B"],
         "lessons": [
           {
             "title": "الدرس 1: قواعد النحو - بناء الفعل الماضي",
@@ -16,13 +17,19 @@
             "pages": 11,
             "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/arabic_l1.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-          },
+          }
+        ]
+      },
+      {
+        "fieldName": "الميدان الثاني: حب الوطن وأمجاد عظماء الإنسانية 🇩🇿",
+        "colors": ["0xFFEA580C", "0xFF431407"],
+        "lessons": [
           {
-            "title": "الدرس 2: بلاغة وأساليب النص الأدبي",
-            "subtitle": "الفرق بين التعبير الحقيقي والتعبير المجازي بوضوح",
-            "size": "2.1 MB",
-            "pages": 12,
-            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/arabic_l2.pdf",
+            "title": "الدرس 1: قواعد النحو - المبتدأ والخبر وعلامات الرفع",
+            "subtitle": "شرح متكامل لأركان الجملة الاسمية مع نماذج إعرابية فخمة",
+            "size": "2.3 MB",
+            "pages": 13,
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/arabic_l3.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           }
         ]
