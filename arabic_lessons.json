@@ -1,0 +1,32 @@
+[
+  {
+    "id": "4",
+    "subject": "اللغة العربية",
+    "author": "وزارة التربية الوطنية",
+    "img": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/images/arabic_card.png",
+    "colors": ["0xFFEF4444", "0xFF7F1D1D"],
+    "fields": [
+      {
+        "fieldName": "الميدان الأول: الحياة العائلية والمجتمعية 📚",
+        "lessons": [
+          {
+            "title": "الدرس 1: قواعد النحو - بناء الفعل الماضي",
+            "subtitle": "ملخص علامات البناء على الفتح والضم والسكون",
+            "size": "1.9 MB",
+            "pages": 11,
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/arabic_l1.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "الدرس 2: بلاغة وأساليب النص الأدبي",
+            "subtitle": "الفرق بين التعبير الحقيقي والتعبير المجازي بوضوح",
+            "size": "2.1 MB",
+            "pages": 12,
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/arabic_l2.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      }
+    ]
+  }
+]
