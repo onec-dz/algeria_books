@@ -1,0 +1,44 @@
+[
+  {
+    "id": "s1",
+    "subject": "الرياضيات",
+    "author": "وزارة التربية الوطنية",
+    "img": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/images/math_solutions_cover.png",
+    "colors": ["0xFF2563EB", "0xFF1E3A8A"],
+    "fields": [
+      {
+        "fieldName": "الميدان الأول: الأعداد الطبيعية والأعداد العشرية 📊",
+        "colors": ["0xFF2563EB", "0xFF1E3A8A"],
+        "exercises": [
+          {
+            "title": "حل تمرين 1 صفحة 18 (المراتب والآحاد)",
+            "page": "ص 18",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/math_ex_p18.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/math_sol_p18.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "حل تمرين 5 صفحة 20 (مقارنة وترتيب الأعداد)",
+            "page": "ص 20",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/math_ex_p20.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/math_sol_p20.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      },
+      {
+        "fieldName": "الميدان الثاني: الهندسة والفضاء والإنشاءات 📐",
+        "colors": ["0xFF14B8A6", "0xFF134E4A"],
+        "exercises": [
+          {
+            "title": "حل تمرين 3 صفحة 45 (التعامد والتوازي بالمسطرة)",
+            "page": "ص 45",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/math_ex_p45.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/math_sol_p45.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      }
+    ]
+  }
+]
