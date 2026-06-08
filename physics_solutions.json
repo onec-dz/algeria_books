@@ -1,0 +1,37 @@
+[
+  {
+    "id": "s2",
+    "subject": "العلوم الفيزيائية",
+    "author": "وزارة التربية الوطنية",
+    "img": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/images/physics_solutions_cover.png",
+    "colors": ["0xFF14B8A6", "0xFF134E4A"],
+    "fields": [
+      {
+        "fieldName": "الميدان الأول: المادة وتحولاتها 🧪",
+        "colors": ["0xFF134E4A", "0xFF0F766E"],
+        "exercises": [
+          {
+            "title": "حل تمرين 2 صفحة 22 (قياس كتلة وحجم السوائل)",
+            "page": "ص 22",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/phys_ex_p22.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/phys_sol_p22.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      },
+      {
+        "fieldName": "الميدان الثاني: الظواهر الكهربائية ⚡",
+        "colors": ["0xFF06B6D4", "0xFF164E63"],
+        "exercises": [
+          {
+            "title": "حل تمرين 4 صفحة 54 (عناصر الدارة الكهربائية البسيطة)",
+            "page": "ص 54",
+            "exercisePdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/phys_ex_p54.pdf",
+            "solutionPdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/phys_sol_p54.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      }
+    ]
+  }
+]
