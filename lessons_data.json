@@ -1,6 +1,10 @@
 [
   {
+    "id": "1",
     "subject": "الرياضيات",
+    "author": "وزارة التربية الوطنية",
+    "img": "https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=400",
+    "colors": ["0xFF2563EB", "0xFF1E3A8A"],
     "fields": [
       {
         "fieldName": "الميدان الأول: الأعداد الطبيعية والأعداد العشرية 📚",
@@ -8,30 +12,40 @@
           {
             "title": "الدرس 1: قراءة وكتابة الأعداد الطبيعية",
             "subtitle": "ملخص شامل لقواعد المراتب والآحاد والعشرات",
+            "size": "2.4 MB",
+            "pages": 14,
             "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           },
           {
             "title": "الدرس 2: مقارنة وترتيب الأعداد الطبيعية",
             "subtitle": "كيفية استعمال الرموز وحصر الأعداد بدقة",
+            "size": "1.8 MB",
+            "pages": 12,
             "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           },
           {
             "title": "الدرس 3: جمع وطرح الأعداد الطبيعية",
             "subtitle": "التقنيات الاعتيادية للعمليات وحل المشكلات",
+            "size": "3.1 MB",
+            "pages": 16,
             "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           },
           {
             "title": "الدرس 4: مفهوم العدد العشري وبنيته",
             "subtitle": "التعرف على الجزء الصحيح والجزء العشري والفاصلة",
+            "size": "2.9 MB",
+            "pages": 15,
             "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           },
           {
             "title": "الدرس 5: الانتقال بين الكتابة الكسرية والعشرية",
             "subtitle": "قواعد التفكيك النموجي وتحويل الكسور العشرية",
+            "size": "3.5 MB",
+            "pages": 18,
             "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           }
@@ -43,30 +57,40 @@
           {
             "title": "الدرس 1: المستقيم والقطعة المستقيمة ونصف المستقيم",
             "subtitle": "المفاهيم الأساسية والرموز الرياضية الصحيحة",
+            "size": "2.2 MB",
+            "pages": 13,
             "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           },
           {
             "title": "الدرس 2: استقامية نقط والمنتصف",
             "subtitle": "قواعد التشفير الهندسي وتحديد منتصف قطعة مستقيمة",
+            "size": "1.9 MB",
+            "pages": 11,
             "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           },
           {
             "title": "الدرس 3: التعامد والتوازي",
             "subtitle": "الإنشاءات الهندسية الدقيقة باستعمال الكوس والمسطرة",
+            "size": "4.2 MB",
+            "pages": 22,
             "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           },
           {
             "title": "الدرس 4: الدائرة وعناصرها الأساسية",
             "subtitle": "التعرف على المركز، نصف القطر، القطر، والوتر",
+            "size": "2.6 MB",
+            "pages": 14,
             "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           },
           {
             "title": "الدرس 5: إنشاء أشكال هندسية بسيطة",
             "subtitle": "خطوات رسم المثلثات الخاصة والمربعات والمستطيلات",
+            "size": "3.8 MB",
+            "pages": 19,
             "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           }
