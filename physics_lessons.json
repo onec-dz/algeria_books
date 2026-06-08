@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2",
+    "subject": "العلوم الفيزيائية",
+    "author": "وزارة التربية الوطنية",
+    "img": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/images/physics_card.png",
+    "colors": ["0xFF14B8A6", "0xFF134E4A"],
+    "fields": [
+      {
+        "fieldName": "الميدان الأول: المادة وتحولاتها 🧪",
+        "lessons": [
+          {
+            "title": "الدرس 1: بعض القياسات وحالات المادة",
+            "subtitle": "شرح مفصل لكيفية قياس الحجم والكتلة والدرجات",
+            "size": "3.1 MB",
+            "pages": 16,
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/physics_l1.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "title": "الدرس 2: الخليط المتجانس والغير متجانس",
+            "subtitle": "طرق الفصل بين الغازات والسوائل والمواد الصلبة",
+            "size": "2.7 MB",
+            "pages": 15,
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/physics_l2.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      }
+    ]
+  }
+]
