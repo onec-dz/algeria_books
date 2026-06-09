@@ -1,0 +1,16 @@
+[
+  {
+    "title": "الفرض الأول المقترح في الرياضيات (الجيل الثاني)",
+    "year": 2026,
+    "icon": "📐",
+    "examUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/math_test1_2026.pdf",
+    "solutionUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/math_sol1_2026.pdf"
+  },
+  {
+    "title": "الفرض الثاني الرسمي في الرياضيات دورة نوفمبر",
+    "year": 2025,
+    "icon": "🧮",
+    "examUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/math_test2_2025.pdf",
+    "solutionUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/math_sol2_2025.pdf"
+  }
+]
