@@ -10,7 +10,7 @@
   },
   {
     "id": "2",
-    "title": "كتاب اللغة العربية",
+    "title": "كتاب الأمازيغية",
     "author": "السنة الأولى متوسط",
     "pages": 150, 
     "colors": ["0xFFEF4444", "0xFF7F1D1D"],
@@ -19,7 +19,7 @@
   },
   {
     "id": "3",
-    "title": "كتاب العلوم الطبيعية",
+    "title": "كتاب الإنجليزية",
     "author": "السنة الأولى متوسط",
     "pages": 160, 
     "colors": ["0xFF10B981", "0xFF064E3B"],
@@ -28,7 +28,7 @@
   },
   {
     "id": "4",
-    "title": "كتاب التاريخ والجغرافيا",
+    "title": "كتاب التربية المدنية",
     "author": "السنة الأولى متوسط",
     "pages": 210, 
     "colors": ["0xFFF97316", "0xFF7C2D12"],
@@ -37,7 +37,7 @@
   },
   {
     "id": "5",
-    "title": "كتاب التربية الإسلامية",
+    "title": "كتاب الجغرافيا",
     "author": "السنة الأولى متوسط",
     "pages": 90, 
     "colors": ["0xFFD97706", "0xFF78350F"],
@@ -46,7 +46,7 @@
   },
   {
     "id": "6",
-    "title": "كتاب الفيزياء",
+    "title": "كتاب اللغة العربية",
     "author": "السنة الأولى متوسط",
     "pages": 140, 
     "colors": ["0xFF14B8A6", "0xFF134E4A"],
@@ -55,7 +55,7 @@
   },
   {
     "id": "7",
-    "title": "كتاب اللغة الفرنسية",
+    "title": "كتاب العلوم الطبيعية",
     "author": "السنة الأولى متوسط",
     "pages": 120, 
     "colors": ["0xFF8B5CF6", "0xFF4C1D95"],
@@ -64,11 +64,29 @@
   },
   {
     "id": "8",
-    "title": "كتاب اللغة الإنجليزية",
+    "title": "كتاب الفرنسية",
     "author": "السنة الأولى متوسط",
     "pages": 110, 
     "colors": ["0xFF6366F1", "0xFF312E81"],
     "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
-  }
+  },
+  {
+    "id": "8",
+    "title": "كتاب العلوم الفيزيائية",
+    "author": "السنة الأولى متوسط",
+    "pages": 110, 
+    "colors": ["0xFF6366F1", "0xFF312E81"],
+    "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
+    "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
+  },
+  {
+    "id": "8",
+    "title": "كتاب التربية التشكيلية",
+    "author": "السنة الأولى متوسط",
+    "pages": 110, 
+    "colors": ["0xFF6366F1", "0xFF312E81"],
+    "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
+    "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
+  },
 ]
